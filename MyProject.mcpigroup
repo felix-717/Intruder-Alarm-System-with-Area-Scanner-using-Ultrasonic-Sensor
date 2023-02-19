@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\PWM\q1\fan\fan.mcppi
+Project1=..\..\PWM\q1\fan\MyProject.mcppi
+[ActiveProject]
+Index=1
