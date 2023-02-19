@@ -10,11 +10,4 @@ The Intruder Alarm System with Area Scanner is a security system that utilizes u
 
 Used KiCad for Schematic MikroC for Code, but applicable for any C IDE<br/>
 
-## Information about Contributors ##
-
-Felix Gabriel S. Montanez<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-Quezon City, Philippines<br/>
-felix_gabriel_montanez@dlsu.edu.ph<br/>
 
